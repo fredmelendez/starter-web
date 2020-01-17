@@ -15,5 +15,7 @@ Sample website with plenty of files for demos
 
 ## DISASTER RECOVERY
 
+Example for disaster recovery.
+
 #### Copyright
 
