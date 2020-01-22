@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-  Add ing a line for rrebasing excample.
+  Adding a line for rebasing excample.
+  More changes from myfeature branch.
 
 ## INTRODUCTION
 
