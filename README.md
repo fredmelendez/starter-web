@@ -1,6 +1,7 @@
 # Starter Web Repo
 
   Adding a line for rebasing excample.
+  Emergency fix after stash.
   More changes from myfeature branch.
 
 ## INTRODUCTION
