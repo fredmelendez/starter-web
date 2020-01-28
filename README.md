@@ -21,4 +21,4 @@ Sample website with plenty of files for demos
 Example for disaster recovery.
 
 #### Copyright
-
+2020 Git Training.  All Rights Reserved.
